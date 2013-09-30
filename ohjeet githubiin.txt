@@ -1,0 +1,6 @@
+Ohjeet KesäHessulle
+
+1.Avaa https://github.com
+2.Rekisteröidy
+3.Lue ohjeet
+4.Ala toimimaan
