@@ -4,3 +4,12 @@ Ohjeet KesäHessulle
 2.Rekisteröidy
 3.Lue ohjeet
 4.Ala toimimaan
+
+
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/pellos/Ohjelmistotuotanto.git
+git push -u origin master
